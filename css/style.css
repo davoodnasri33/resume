@@ -1,0 +1,55 @@
+#main{
+    background-color: silver;
+    width: 1000px;
+    height: 1000px;
+}
+
+
+
+
+
+.header{
+    background-color:white;
+    width: 900px;
+    height: 250px;
+    line-height: 5px;
+    border-radius: 5px;
+    margin: 10px;
+    margin: 0 auto;
+
+}
+.header-right{
+    background-color:white;
+    width: 900px;
+    height:500px;
+    line-height: 5px;
+    border-radius: 5px;
+    margin: 10px;
+    margin: 0 auto;
+    text-align: center;
+    color: blue;
+
+}
+.header-center{
+
+
+    text-align: center;
+
+}
+.header-left{
+    width: 900px;
+    height:1000px;
+   text-align: center;
+    color: blue;
+    background-color:white;
+    margin: 0 auto;
+
+}
+h2{
+    direction: rtl;
+    margin-right: 10px;
+    line-height: 20px;
+}
+
+
+
